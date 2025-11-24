@@ -1,0 +1,2 @@
+*.zip filter=lfs diff=lfs merge=lfs -text
+physio_part_* filter=lfs diff=lfs merge=lfs -text
